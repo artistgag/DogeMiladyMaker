@@ -5,7 +5,8 @@ body {
     clean, sans-serif;
   max-width: 43em;
   margin: auto;
-  background-image: linear-gradient(#d9f0d6, #f4ffee, #f4ffee, white, white);
+  background: #fff3cd;
+  /* linear-gradient(#d9f0d6, #f4ffee, #f4ffee, white, white); */
   background-attachment: fixed;
 }
 
@@ -36,7 +37,7 @@ img:hover {
 .m_box {
   border: 1px solid #a57a39;
   margin: 1em;
-  background-color: white;
+  background-color:#ffffee;
 }
 .m_box_red {
   border: 1px solid #800000;
@@ -49,8 +50,8 @@ a {
   text-decoration: underline;
 }
 .m_box_bar {
-  background: #a57a39;
-  color: white;
+  background: #dfc66d;
+  color: #222;
 }
 .m_box_bar_red {
   background: #800000;
@@ -70,14 +71,14 @@ p {
 }
 
 .box {
-  border: 1px solid #2f4d0c;
-  color: #2f4d0c;
+  border: 1px solid #353129;
+  color: #353129;
   margin: 1em;
   background-color: white;
 }
 .box_bar {
-  background: #b9d9b7;
-  color: #2f4d0c;
+  background: #b5b08f;
+  color: #353129;
 }
 
 h2 {
