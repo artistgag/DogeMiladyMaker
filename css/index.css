@@ -5,11 +5,15 @@ body {
     clean, sans-serif;
   max-width: 43em;
   margin: auto;
-  background: linear-gradient(#fff3cd, #fff3cd, #fff3cd, white, white);
-  /* background:url('../images/bg-1.gif') no-repeat bottom;
-  background-size:100% auto;
-  padding-bottom:400px;
-  padding-top:400px; */
+  background-color: #fff3cd;
+  background-image :url('../images/cool-doge-cool-dog.gif'),
+  url('../images/retrogrid.png');
+  background-repeat:repeat-x;
+  background-position: right bottom -30px;
+  background-size:auto 80%;
+  padding-bottom:40px;
+  padding-top:40px;
+
 
   background-attachment: fixed;
 }
