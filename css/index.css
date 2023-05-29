@@ -5,8 +5,12 @@ body {
     clean, sans-serif;
   max-width: 43em;
   margin: auto;
-  background: #fff3cd;
-  /* linear-gradient(#d9f0d6, #f4ffee, #f4ffee, white, white); */
+  background: linear-gradient(#fff3cd, #fff3cd, #fff3cd, white, white);
+  /* background:url('../images/bg-1.gif') no-repeat bottom;
+  background-size:100% auto;
+  padding-bottom:400px;
+  padding-top:400px; */
+
   background-attachment: fixed;
 }
 
